@@ -13,3 +13,4 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia#chest_xray.zip
 
 ## Logistic Regression
 
+![alt text](https://github.com/Chen-XueWen/DeepLearning/blob/master/Pictures/LogisticRegressionModel.png)
