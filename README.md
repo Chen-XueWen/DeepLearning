@@ -4,6 +4,7 @@ This is a hobby project for implementing the deep learning algorithm from scratc
 The helperfunc contains helper function that is used in the logistic regression function which is also fed into the neural network function.
 
 The datasets used in this mini project are chest X ray, Chornic Kidney Disease and Iris (for quick test)
+In the Dataset folder, it has been manipulated for MATLAB Usage
 
 Link:
 
