@@ -15,4 +15,4 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia#chest_xray.zip
 
 A logistic regression is actually a "simplified" neural network with only one node. With the understanding of the logistic regression, it is possible to build a full fledge neural networks by "stacking" the code by creating alot of logistic regression which will build the basis of a neural network
 
-![alt text](https://github.com/Chen-XueWen/DeepLearning/blob/master/Pictures/LogisticRegressionModel.png)
+![alt text](https://github.com/Chen-XueWen/DeepLearning/blob/master/Pictures/LogisticRegressionModel1.png)
