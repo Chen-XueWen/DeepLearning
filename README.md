@@ -9,7 +9,9 @@ In the Dataset folder, it has been manipulated for MATLAB Usage
 Link:
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+
 https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
+
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia#chest_xray.zip
 
 ## Logistic Regression
